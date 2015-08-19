@@ -15,6 +15,8 @@ and open the template in the editor.
 		function sumar($a,$b){
 			return $a + $b;
 		}
+                
+                echo sumar(3,2);
 		
         ?>
     </body>
