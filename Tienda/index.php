@@ -12,6 +12,10 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+		function sumar($a,$b){
+			return $a + $b;
+		}
+		
         ?>
     </body>
 </html>
